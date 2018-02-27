@@ -25,7 +25,7 @@ class RegistsController extends AppController
       $this->viewBuilder()->setLayout('open');
   }
   public function index(){
-  	echo "test";
+  	//echo "test";
   }
 
 }
